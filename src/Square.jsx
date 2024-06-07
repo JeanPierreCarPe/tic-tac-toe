@@ -10,7 +10,7 @@ const Square = (props) => {
 }
 
 Square.propTypes = {
-    children: PropTypes.node.isRequired,
+    children: PropTypes.node,
     setBoard: PropTypes.func.isRequired,
     index: PropTypes.number.isRequired,
 };

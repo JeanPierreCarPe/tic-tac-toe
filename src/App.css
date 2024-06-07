@@ -20,6 +20,11 @@
     color: #fbfbfb;
 }
 
+h2 {
+    font-size: 2rem;
+    color: #fbfbfb;
+}
+
 .board {
     position: relative;
     display: grid;
